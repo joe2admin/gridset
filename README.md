@@ -100,20 +100,20 @@ After running `create_test_users`, the following accounts are available:
 
 ## Project Structure
 
-asset_management_system/
-├── assets/
-│ ├── migrations/
-│ ├── management/
-│ │ └── commands/
-│ ├── templates/
-│ │ ├── assets/
-│ │ └── registration/
-│ ├── models.py
-│ ├── views.py
-│ └── urls.py
-├── static/
-│ └── styles.css
-└── manage.py
+asset_management_system
+assets
+migrations
+management
+commands
+templates
+assets
+registration
+models.py
+views.py
+urls.py
+static
+styles.css
+manage.py
 
 
 
