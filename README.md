@@ -30,6 +30,9 @@ GridSet is a modern, web-based asset management system built with Django that he
 - Distribution by category, status, and department
 - Request summary statistics
 - Visual data representation
+![report](https://github.com/user-attachments/assets/bd36a3da-c2af-4268-a9fd-4dcaf0b8b026)
+
+
 
 ### Dashboard
 - Overview statistics
@@ -38,6 +41,8 @@ GridSet is a modern, web-based asset management system built with Django that he
 - Quick access to key functions
 - Status indicators
 
+![dashboard](https://github.com/user-attachments/assets/8e8edef0-f359-4d8f-b5e3-fa0a8610c929)
+
 ### Modern UI/UX
 - Clean, responsive design
 - Intuitive navigation
@@ -45,6 +50,9 @@ GridSet is a modern, web-based asset management system built with Django that he
 - Modal confirmations
 - Success notifications
 - Mobile-friendly interface
+
+  ![asset](https://github.com/user-attachments/assets/a6cb840a-7406-4b62-99b7-950e15ce3e34)
+
 
 ## Technology Stack
 
